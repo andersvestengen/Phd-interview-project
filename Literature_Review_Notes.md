@@ -18,6 +18,18 @@ Introduction to Survival Analysis in practice:
     6. N-MTLR
     7. MTLR
 
+### Ranking Modality fusion paper propositions: (Results and Practicality)
+
+    1. Lung cancer paper            (CT & clinical data)                    (.885 acc.,  .957  AUROC , 2022) 
+    2. Pulmonary elmbolism (Nature) (CT & clinic data EMR)                  (.885 acc.,  .947  AUROC , 2020)  
+    3. Babies paper                 (CTG and clinical information (sparse)) (.907 acc.,  .920  AUC   , 2023)        (Check out LGBM classifier)
+    4. Skin Lesion smartphone       (clinical images & clinical data)       (.760 acc.,  .947  AUROC , 2022) 
+    5. Stroke paper                 (MRI & clinical data)                   (.804 acc.,  .870  AUC   , 2024)
+    6. ICU paper                    (X-ray & clinical data)                 (.770 acc.,  .770  AUC   , 2023)
+
+
+### Ranking of the different xAI propositions: (Results and Practicality)
+
 
 
 
