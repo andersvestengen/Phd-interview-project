@@ -17,3 +17,18 @@ Introduction to Survival Analysis in practice:
     5. DeepSurv
     6. N-MTLR
     7. MTLR
+
+
+
+
+# Proposition for the complete model
+
+## Desc. "A multimodal explainable deep learning method for predicting survival probabilities of individual liver cancer patients by integrating information from CT and clinical parameters"
+
+### What Survival function should be used?
+    PC-Hazard seems to score the best of the surveyed models, but I've not yet considered the actual task of liver cancer patients. (DeepHit could be a better fit)
+
+### What xAI method should be used?
+    
+
+### What modality fusion technique should be used?
