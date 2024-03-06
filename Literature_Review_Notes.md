@@ -29,7 +29,7 @@ Introduction to Survival Analysis in practice:
 
 
 ### Ranking of the different xAI propositions: (Results and Practicality)
-
+    
 
 
 
