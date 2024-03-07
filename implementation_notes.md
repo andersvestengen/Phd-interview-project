@@ -29,3 +29,9 @@ Notes from the summary study:
     I would argue that in this case I don't care about the DFS-part of the statistics, only the overall survival-rate is important. 
 
         - There maybe a need to revisit and revise this, but for now the DFS columns will be removed (correlation would be absurd if they should remain?)
+
+DFS vs OS analysis:
+    - DFS can be seen as a competing risk versus 'Ordinary Survival', therefore separate analysis is prudent. So either use a competing-risk model, or do joint analysis. 
+
+    - I should come back to this and check which of the survival models in my list is potentially capable of competing-risk or joint analysis. 
+
