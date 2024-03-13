@@ -34,3 +34,8 @@ DFS vs OS analysis:
     - DFS can be seen as a competing risk versus 'Ordinary Survival', therefore separate analysis is prudent. So either use a competing-risk model, or do joint analysis. 
 
     - I should come back to this and check which of the survival models in my list is potentially capable of competing-risk or joint analysis. 
+
+
+
+What is the 'cuts' and grid methods?
+    - 
