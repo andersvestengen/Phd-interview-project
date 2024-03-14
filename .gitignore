@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 #Directories from other sources
-unet3d
+pytorch-3dunet-master
 
 # C extensions
 *.so
